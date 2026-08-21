@@ -1,0 +1,25 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lezli01/vincent/releases/download/v0.4.0/vincent_0.4.0_windows_amd64.zip",
+            "bin": [
+                "vincent.exe"
+            ],
+            "hash": "e25f1233ef6a359c06b69e2b202767211fdb88ff1e0cf2d86da40a6e75c1ca8c"
+        },
+        "arm64": {
+            "url": "https://github.com/lezli01/vincent/releases/download/v0.4.0/vincent_0.4.0_windows_arm64.zip",
+            "bin": [
+                "vincent.exe"
+            ],
+            "hash": "ed2e51ad6fb3940aab7d0e009af3579183db5873f12c13a92771d6143ed45d8e"
+        }
+    },
+    "homepage": "https://github.com/lezli01/vincent",
+    "license": "PolyForm-Noncommercial-1.0.0",
+    "description": "Vendor-independent control plane for executing native agent tooling",
+    "depends": [
+        "git"
+    ]
+}
