@@ -1,19 +1,19 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lezli01/vincent/releases/download/v0.4.1/vincent_0.4.1_windows_amd64.zip",
+            "url": "https://github.com/lezli01/vincent/releases/download/v0.4.2/vincent_0.4.2_windows_amd64.zip",
             "bin": [
                 "vincent.exe"
             ],
-            "hash": "90030d7bd0c6268401519c1e114fe58fddd56574d5bc6e8150cac021a3e080e5"
+            "hash": "d2b791d3f461e312953263531266d306c1950897eddeca1fe3fe6ba1428723d9"
         },
         "arm64": {
-            "url": "https://github.com/lezli01/vincent/releases/download/v0.4.1/vincent_0.4.1_windows_arm64.zip",
+            "url": "https://github.com/lezli01/vincent/releases/download/v0.4.2/vincent_0.4.2_windows_arm64.zip",
             "bin": [
                 "vincent.exe"
             ],
-            "hash": "34db052b03cec3a5932bdf7e190666dd952abfc9f64024b235d4419267554421"
+            "hash": "aecc20d6191afec566c67986d523832cb0c6f82adbb287fe86d21e5e62cc2c5f"
         }
     },
     "homepage": "https://github.com/lezli01/vincent",
