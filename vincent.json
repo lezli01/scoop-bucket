@@ -1,23 +1,23 @@
 {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lezli01/vincent/releases/download/v0.6.0/vincent_0.6.0_windows_amd64.zip",
+            "url": "https://github.com/lezli01/vincent/releases/download/v0.7.0/vincent_0.7.0_windows_amd64.zip",
             "bin": [
                 "vincent.exe"
             ],
-            "hash": "adbff572a5964c2823314d976063b0f25ea2634669001f4791e9dfe58c77401e"
+            "hash": "08237ea4e2b8a0e19c144d2ba319a235a9d6043aac5d8fe67d6d10c31073ca79"
         },
         "arm64": {
-            "url": "https://github.com/lezli01/vincent/releases/download/v0.6.0/vincent_0.6.0_windows_arm64.zip",
+            "url": "https://github.com/lezli01/vincent/releases/download/v0.7.0/vincent_0.7.0_windows_arm64.zip",
             "bin": [
                 "vincent.exe"
             ],
-            "hash": "cb2066c15b22f7ce36ced1aac914cbf356e5e13d8256f09ca31b3aa150e7d29a"
+            "hash": "cc39e8ab977ad77018e5b0ed5a5e93936c682b353ca5de4518b04a6372a3fbd6"
         }
     },
     "homepage": "https://github.com/lezli01/vincent",
-    "license": "PolyForm-Noncommercial-1.0.0",
+    "license": "MIT",
     "description": "Vendor-independent control plane for executing native agent tooling",
     "depends": [
         "git"
